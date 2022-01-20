@@ -4,6 +4,7 @@
 
     <string name="button_go">Go</string>
     <string name="text_info">Hello World</string>
+    <string name="text_connect">Connect</string>
 
     <string name="text_starting">Starting</string>
     <string name="text_running">Running</string>

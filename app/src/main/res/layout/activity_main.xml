@@ -33,5 +33,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
+    <Button
+        android:id="@+id/button_connect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_connect"
+        android:layout_margin="@dimen/padding_lg"/>
+
 
 </LinearLayout>
