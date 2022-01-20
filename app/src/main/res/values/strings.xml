@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PM-Asynctask</string>
+
+
+    <string name="button_go">Go</string>
+    <string name="text_info">Hello World</string>
+
+    <string name="text_starting">Starting</string>
+    <string name="text_running">Running</string>
+    <string name="text_finish">Finish</string>
 </resources>
